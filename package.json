@@ -1,0 +1,23 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "nodeIntro",
+  "main": "step1.js",
+  "scripts": {
+    "test": "runTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeIntro"
+  },
+  "keywords": [
+    "nodeIntro"
+  ],
+  "author": "wainesville",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "fs": "^0.0.1-security",
+    "process": "^0.11.10"
+  }
+}
